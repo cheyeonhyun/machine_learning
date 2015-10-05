@@ -26,3 +26,6 @@ user_id, colleague_id
 For example: 
 Rscript igraph_r_wrapper.r input.csv TRUE degree indegree outdegree between closeness 0 fc wc 0
 --> this command will not calculate eigenvector and clique
+
+#How to use Search_Tweets
+Before you use this script, please read the code to understand what each function is doing. Change the input/output file and write the function that you want to run. Ex. python search_tweets.py search_tweets_by_queries
