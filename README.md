@@ -29,3 +29,12 @@ Rscript igraph_r_wrapper.r input.csv TRUE degree indegree outdegree between clos
 
 #How to use Search_Tweets
 Before you use this script, please read the code to understand what each function is doing. Change the input/output file and write the function that you want to run. Ex. python search_tweets.py search_tweets_by_queries
+
+#How to run NN_mse_cee
+python -i hw6.py
+In python, type kaggle() to get the csv file
+Or you can run other functions to get accuracy
+- mse_accuracy()
+- cee_accuracy()
+- 
+
